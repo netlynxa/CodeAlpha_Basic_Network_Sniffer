@@ -1,7 +1,7 @@
 # CodeAlpha_Basic_Network_Sniffer
 This repository contains the code for a basic Command Line Interface (CLI) Packet Sniffer developed during my Task 1 of my cybersecuirty CodeAlpha internship 
 
-# Feautures 
+# Features 
 - captures live network packets
 - Displays source/destination IPs,Protocol types, and payloads
 - Supports TCP,UDP,ICMP,IGMP Analysis
